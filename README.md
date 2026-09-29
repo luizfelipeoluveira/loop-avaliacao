@@ -51,13 +51,13 @@ Fim
 2. Clone este repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/luizfelipeoluveira/loop-avaliacao
 ```
 
 3. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd loop_avaliacao
 ```
 
 4. Execute o programa:
